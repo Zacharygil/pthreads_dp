@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/pthreads_dp.dir/dining_philosophers.c.o CMakeFiles/pthreads_dp.dir/dp_asymmetric.c.o CMakeFiles/pthreads_dp.dir/dp_waiter.c.o  -o pthreads_dp 
